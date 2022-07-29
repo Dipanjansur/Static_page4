@@ -6,7 +6,10 @@
 
  ### total time to complete
  - took me around 45 minutes to complete this page from scratch
-
+### Things learned while building this project
+- proper position of the elements 
+- flex property
+- button styling 
  ## live link
  [LIVE LINK]("netlify")
 
